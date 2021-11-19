@@ -80,5 +80,13 @@
     font-weight: bold;
 }
 .mycard .card-body{
-    border: 2px solid blue;
+    border: 1px ;
+    height: 12rem;
+    width: 100rem;
+    text-align: center;
+    align-items: center;
+    /* padding: 30px 10px 20px 10px; */
+}
+.mycard {
+    margin: 10px 150px;
 }
