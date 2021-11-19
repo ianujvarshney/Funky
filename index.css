@@ -60,3 +60,20 @@
 .dropdown:hover .dropdown-menu{
     display: block;
 }
+.heading{
+    margin: 50px 150px;
+    font-weight: bold;
+}
+.head1{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 140px;
+    font-size: 1em;
+    font-weight: bold;
+}
+.
+.card2 .card-body{
+    padding-top:50%;
+    margin: 20px;
+    border: 2px solid red;
+}
