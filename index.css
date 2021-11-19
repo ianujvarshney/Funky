@@ -17,8 +17,16 @@
     position:relative;
     left: 30px;
 }
+@media (max-width:550px)
+{
+    .form-inline .fas{
+        position: relative;
+        left: 22px;
+        top: 27px;
+    }
+}
 .navbar-nav .nav-item{
-    margin: 10px;
+    margin: 10px 8px;
 }
 .nav-item .nav-link{
     font-weight: bold;
@@ -71,9 +79,6 @@
     font-size: 1em;
     font-weight: bold;
 }
-.
-.card2 .card-body{
-    padding-top:50%;
-    margin: 20px;
-    border: 2px solid red;
+.mycard .card-body{
+    border: 2px solid blue;
 }
